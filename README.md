@@ -34,5 +34,3 @@ Dashboard_Screenshot.png → Dashboard preview
 Rent and groceries contribute to the highest expenses
 Income is higher than expenses indicating positive savings
 Monthly expenses remain relatively consistent
-Income is higher than expenses indicating positive savings
-Monthly expenses remain relatively consistent
