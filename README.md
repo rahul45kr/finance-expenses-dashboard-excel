@@ -8,11 +8,17 @@ This project is an interactive Finance Expenses Dashboard built using Microsoft 
 It provides clear insights into spending behavior using dynamic charts and filters.
 
 🚀 Features
+
 📈 Income vs Expenses comparison
+
 📊 Category-wise expense breakdown
+
 📅 Monthly trend analysis
+
 🧾 Sub-category insights (Rent, Groceries, Salary, etc.)
+
 🎛️ Interactive slicers for filtering
+
 🎨 Clean and user-friendly dashboard design
 
 🛠️ Tools & Technologies
