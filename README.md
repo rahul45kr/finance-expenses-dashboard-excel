@@ -22,13 +22,18 @@ It provides clear insights into spending behavior using dynamic charts and filte
 🎨 Clean and user-friendly dashboard design
 
 🛠️ Tools & Technologies
+
 Microsoft Excel
+
 Pivot Tables & Pivot Charts
+
 Slicers
+
 Data Cleaning
 
 📂 Project Files
-Finance_Expenses_Data.xlsx → Main dashboard file
+Finance_Expenses_Data.xlsx → Main dashboard file(  )
+
 Dashboard_Screenshot.png → Dashboard preview
 
 📸 Dashboard Preview
